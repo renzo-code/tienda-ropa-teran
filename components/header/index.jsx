@@ -24,9 +24,6 @@ const Header = () => {
         <a href="/accesorios">
           <h1>Acessorios</h1>
         </a>
-        <a href="/productos">
-          <h1>Productos</h1>
-        </a>
         <a href="/atencion-cliente">
           <h1>Atención al Cliente</h1>
         </a>
